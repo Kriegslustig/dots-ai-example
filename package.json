@@ -4,7 +4,7 @@
   "description": "A simple AI example classifying dots on a XY axis.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
   "author": "Kriegslustig <github@ls7.ch>",
   "license": "MIT"
